@@ -1,0 +1,1 @@
+Hi, I am Michèle Fischer. This is the first file for the git workshop. I hope everything works. Two more sentences.
