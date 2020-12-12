@@ -4,3 +4,4 @@ second
 third
 Hello Brady nice to meet you!
 Mitch says hello too!
+Did you solve the merge conflict?
